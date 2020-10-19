@@ -1,4 +1,4 @@
-# Quantification-of-the-distribution-of-vesicles-in-different-sections-of-a-cell
+# Vesicle quantification
 
 This application is an imageJ macro that quantifies the distribution of certain vesicles in different parts of the cells to be able to make a statement as to 
 whether the vesicles are approximately equally distributed or whether polarization occurs.
